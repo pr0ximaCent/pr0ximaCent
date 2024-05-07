@@ -1,3 +1,4 @@
+![logo](https://github.com/pr0ximaCent/pr0ximaCent/blob/main/Github%20banner.png)
 <h1 align="center">Hi 👋, I'm Sabik Aftahee</h1>
 <h3 align="center">A 4th year CS undergrad from CUET</h3>
 
