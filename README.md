@@ -1,4 +1,5 @@
-![logo](https://github.com/pr0ximaCent/pr0ximaCent/blob/main/Github%20banner.png)
+![Github banner](https://github.com/pr0ximaCent/pr0ximaCent/assets/155639344/4213dff4-c9fb-4a17-ba04-d4095acfebdd)
+
 <h1 align="center">Hi 👋, I'm Sabik Aftahee</h1>
 <h3 align="center">A 4th year CS undergrad from CUET</h3>
 
