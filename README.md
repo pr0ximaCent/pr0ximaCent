@@ -25,7 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sabik aftahee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sabik aftahee" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sabik-aftahee-2017a617b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sabik aftahee" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/24912245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="24912245" height="30" width="40" /></a>
 <a href="https://fb.com/sabik aftahee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sabik aftahee" height="30" width="40" /></a>
 <a href="https://instagram.com/quantical_h2so4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="quantical_h2so4" height="30" width="40" /></a>
