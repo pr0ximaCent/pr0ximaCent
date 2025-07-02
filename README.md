@@ -19,9 +19,9 @@
 
 - 📫 How to reach me **sabikaftahee01@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1NQS00Bs2tcFZIA1kNA-HsqJUEwmiVtlZ/view?usp=sharing](https://drive.google.com/file/d/1NQS00Bs2tcFZIA1kNA-HsqJUEwmiVtlZ/view?usp=sharing)
+- 📄 Know about my experiences [Portfolio](tinyurl.com/Sabik-Aftahee)
 
-- ⚡ Fun fact **Although I am An International Merit Award Holder In International Blockchain Olympiad, My research Interest lies in Machine Learning**
+- ⚡ Fun fact **Although I am An International Merit Award Holder In International Blockchain Olympiad, My research Interest lies in LLM**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
