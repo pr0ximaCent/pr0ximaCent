@@ -7,11 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pr0ximacent&label=Profile%20views&color=0e75b6&style=flat" alt="pr0ximacent" /> </p>
 
-- 🔭 I’m currently working on [Semi Automated University Website](https://github.com/pr0ximaCent/-A-complete-CUET-University-website-with-automated-online-attendance-direct-notices-and-profiles-)
+- 🔭 I’m currently working on [An AI Agent which tracks your finances with LangChain](https://github.com/pr0ximaCent/Langchain-Chat-Driven-Expense-Tracker-)
 
-- 🌱 I’m currently learning **Advanced machine Learning Course by Andrew NG**
+- 🌱 I’m currently learning **Fine-Tuning LLMs nad Their Reasoning Capabilities**
 
-- 👯 I’m looking to collaborate on **Researches on Democratized Generative AI**
+- 👯 I’m looking to collaborate on **Researches on Core AI (Reasoning, Evaluation)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pr0ximaCent?tab=repositories](https://github.com/pr0ximaCent?tab=repositories)
 
