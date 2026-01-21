@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [An AI Agent which tracks your finances with LangChain](https://github.com/pr0ximaCent/Langchain-Chat-Driven-Expense-Tracker-)
 
-- 🌱 I’m currently learning **Fine-Tuning LLMs nad Their Reasoning Capabilities**
+- 🌱 I’m currently learning **Fine-Tuning LLMs and Their Reasoning Capabilities**
 
 - 👯 I’m looking to collaborate on research about the gap between model capability vs their reliability.
 
