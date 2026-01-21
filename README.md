@@ -1,7 +1,7 @@
 ![Github banner](https://github.com/pr0ximaCent/pr0ximaCent/assets/155639344/4213dff4-c9fb-4a17-ba04-d4095acfebdd)
 
 <h1 align="center">Hi 👋, I'm Sabik Aftahee</h1>
-<h3 align="center">A 4th year CS undergrad from CUET</h3>
+<h3 align="center">AI Engineer & Researcher</h3>
 
 <img align="right" alt="codeJam" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
@@ -11,11 +11,11 @@
 
 - 🌱 I’m currently learning **Fine-Tuning LLMs nad Their Reasoning Capabilities**
 
-- 👯 I’m looking to collaborate on **Researches on Core AI (Reasoning, Evaluation)**
+- 👯 I’m looking to collaborate on research about the gap between model capability vs their reliability.
 
 - 👨‍💻 All of my projects are available at [https://github.com/pr0ximaCent?tab=repositories](https://github.com/pr0ximaCent?tab=repositories)
 
-- 💬 Ask me about **Blockchain, Web3**
+- 💬 Ask me about **LLM, AI**
 
 - 📫 How to reach me **sabikaftahee01@gmail.com**
 
