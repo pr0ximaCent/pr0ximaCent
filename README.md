@@ -1,4 +1,6 @@
-![Github banner](https://github.com/pr0ximaCent/pr0ximaCent/assets/155639344/4213dff4-c9fb-4a17-ba04-d4095acfebdd)
+
+<img width="1584" height="396" alt="Github banner" src="https://github.com/user-attachments/assets/1a72a46f-ac0e-4432-accc-fa23ead481ac" />
+
 
 <h1 align="center">Hi 👋, I'm Sabik Aftahee</h1>
 <h3 align="center">AI Engineer & Researcher</h3>
